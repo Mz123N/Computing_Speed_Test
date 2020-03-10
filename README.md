@@ -9,3 +9,6 @@ must exist.
 
 After tried the three ways that he used to solve this problem and also inspired by the Big O Notation, I was curious how fast each method could be. So I
 tried to simulate each scenario and ideally draw the computing graph for each methods.
+
+
+
